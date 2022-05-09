@@ -1,7 +1,9 @@
 ## Olá, eu sou o Leandro Rocha, estudo Desenvolvimento Web Fullstak!
 <div align="start">
-  <a href="https://github.com/Leandrorochagithub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrorochagithub&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Leandrorochagithub"> 
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrorochagithub&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/></div>
+  <div align="end">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorochagithub&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 <div style="display: inline_block"><br>
