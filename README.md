@@ -1,13 +1,14 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#a9a9a9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#f0dc82&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9a9a9&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+Leandro+Rocha;Tenho+27+anos;Sou+de+Brasília;Sou+estudante+de+administração+de+Banco+de+Dados;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Leandrorochagithub&bg_color=080808&color=ffffff&line=3d43f0&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leandrorochagithub&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Leandro Rocha github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrorochagithub&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<div align="start">
+  <a href="https://github.com/Leandrorochagithub"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrorochagithub&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorochagithub&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 
 
@@ -38,7 +39,7 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#f0dc82&height=120&section=footer"/>
 
 
 
