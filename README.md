@@ -1,43 +1,55 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#f0dc82&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9a9a9&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+Leandro+Rocha;Tenho+27+anos;Sou+de+Brasília;Sou+estudante+de+administração+de+Banco+de+Dados;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+### 👋 Olá, eu sou o Leandro Rocha!
+**DBA | Analista de Dados | SQL | Python**
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Leandrorochagithub&bg_color=080808&color=ffffff&line=3d43f0&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrorochagithub&layout=compact&theme=dark)](https://github.com/Leandrorochagithub/github-readme-stats)
-<br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrorochagithub&show_icons=true&theme=dark)
+*Apaixonado por otimizar processos. Atualmente, aprofundando conhecimentos em Sql Server e Python para administração de bancos de dados e automação.*
 
+[![GitHub Visits](https://komarev.com/ghpvc/?username=Leandrorochagithub&color=000000&style=flat)](https://github.com/Leandrorochagithub)
 
-<div> 
-  <a href="https://www.instagram.com/leandro.rocha_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leandrodarochaferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leandro-r-8524b4160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
- 
- ### Main skills:
-<div style="display: inline_block"><br>
- <img align="center" alt="Leandro-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  
-
-
-### Studying in this moment:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+---
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
-<br>
+  <a href="https://github.com/Leandrorochagithub">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandrorochagithub&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&bg_color=080808&text_color=ffffff&icon_color=f0dc82"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrorochagithub&layout=compact&theme=dark&bg_color=080808&text_color=ffffff"/>
 </div>
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#f0dc82&height=120&section=footer"/>
+### 🛠️ Principais Habilidades
 
+**Análise de Dados**:
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+</p>
 
+**Banco de Dados**:
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
+### 📚 Estudando Atualmente
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+</p>
 
+---
+
+### 📫 Contato
+
+<p>
+  <a href="https://www.instagram.com/leandro.rocha_/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:leandrodarochaferreira@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/leandro-r-8524b4160/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0xf0dc82&height=120&section=footer"/>
