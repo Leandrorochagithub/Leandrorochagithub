@@ -1,7 +1,7 @@
 
 
 ### 👋 Olá, eu sou o Leandro Rocha!
-**Graduando em Análise e Desenvolvimento de Sistemas | Graduado em Gestão Pública | Pós-graduado em Banco de dados | Aspirante a DBA | Foco em SQL Server e Azure | Analista de Dados**
+**Graduando em Análise e Desenvolvimento de Sistemas | Graduado em Gestão Pública | Pós-graduado em Banco de dados | Aspirante a DBA e Eng. de Dados | Foco em SQL Server e Azure | Analista de Dados**
 
 *Apaixonado por otimizar processos. Atualmente, aprofundando conhecimentos em Sql Server e Python para administração de bancos de dados e automação.*
 
