@@ -1,7 +1,7 @@
 
 
 ### 👋 Olá, eu sou o Leandro Rocha!
-**Graduando em Análise e Desenvolvimento de Sistemas | Graduado em Gestão Pública | Pós-graduado em Banco de dados | Aspirante a DBA e Eng. de Dados | Foco em SQL Server e Azure | Analista de Dados**
+**Cursando Análise e Desenvolvimento de Sistemas | Graduado em Gestão Pública | Pós-graduado em Banco de dados | Aspirante a DBA e Eng. de Dados | Foco em SQL Server e Azure | Analista de Dados**
 
 *Apaixonado por otimizar processos. Atualmente, aprofundando conhecimentos em Sql Server e Python para administração de bancos de dados e automação.*
 
@@ -21,6 +21,8 @@
 
 **Linguagens**:
 <p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </p>
 
@@ -43,6 +45,7 @@
 
 ### 📚 Estudando Atualmente
 <p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
