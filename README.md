@@ -117,7 +117,7 @@
 
 ## 🎯 Áreas de Expertise
 
-<div align="center">
+
 
 ### 📊 Data Analytics
 **Power BI • Excel Avançado • DAX & Power Query • Storytelling com Dados**
@@ -131,17 +131,13 @@
 ### 📈 Business Intelligence
 **KPIs & Métricas • Dashboards Executivos • Análise de Performance • People Analytics**
 
-</div>
+
 
 ---
 
 ## 📂 Repositórios em Destaque
-
-<div align="center">
   
 https://github.com/Leandrorochagithub/Engenharia-e-Analise-de-Dados/tree/main
-
-</div>
 
 ---
 
